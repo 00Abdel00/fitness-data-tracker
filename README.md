@@ -59,14 +59,23 @@ This project documents a personal challenge: cutting from 90.6 kg to an estimate
 
 ---
 
+## 🔗 Live Tools
+
+- [Google Sheets Tracker (view-only)](https://docs.google.com/spreadsheets/d/1yCK31jtlSLtx226lzM3u51wys3bc2vt3/edit?usp=sharing)
+
+---
+
 ## 📅 Timeline
 
-| Date        | Milestone                                 |
-|-------------|--------------------------------------------|
-| Apr 24      | Repo + README + Sheet setup                |
-| May 1       | Start tracking + 1RM test (baseline)       |
-| Oct 1       | End of cut phase, switch to strength phase |
-| Oct+        | Phase 2: Bench PR pursuit at goal weight   |
+| Date        | Milestone                                         |
+|-------------|--------------------------------------------------|
+| Apr 24      | Repo setup, README written                       |
+| Apr 25–27   | Google Sheet tracker finalized, GitHub linked    |
+| Apr 28      | Uploaded baseline data file (iteration 0)        |
+| May 1       | Project officially starts, 1RM bench test planned |
+| May 8       | First data snapshot (iteration 1) + formula setup|
+| June 1      | First visualizations                             |
+| Oct 1       | End of Phase 1 (cutting phase)                   |
 
 ---
 
@@ -76,6 +85,14 @@ This project is a blend of personal discipline and professional skill developmen
 - 📚 It applies data cleaning, visualization, and tracking principles in a real-world context
 - 🧩 Demonstrates storytelling and KPI-focused analysis
 - 👀 Shows consistency and attention to detail — core data analyst traits
+
+---
+
+## 🚧 Project Status
+
+✅ Setup complete — ready for daily tracking  
+🔜 Visual analysis begins in June  
+🛠️ Last updated: April 28, 2025
 
 ---
 
